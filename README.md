@@ -2,9 +2,13 @@
 
 ## Term 1 Projects
 
-### Calculator (2025)
+### Calculator 10/14/2025
 
-Detailed description.
+Detailed description:
+* 250x250px
+* Basic Operations
+* Light weight
+* Only-mouse functional
 
 ![RunningCalculator](https://github.com/425656gabriel/portfolioB2/blob/main/images/calc.png?raw=true)
 
