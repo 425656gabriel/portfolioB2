@@ -1,4 +1,4 @@
-# Gabriel Gonzales portfolio
+# Gabriel Gonzales' portfolio
 
 ## Term 1 Projects
 
