@@ -11,7 +11,7 @@ Detailed description:
 * Only-mouse functional
 The button link is part of the source code
 
-![RunningCalculator](https://github.com/425656gabriel/portfolioB2/blob/main/images/calc.png?raw=true)
+![RunningCalculator](https://github.com/425656gabriel/portfolioB2/blob/main/images/calculator.png)
 
 * [Windows](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/windows-amd64)
 * [MacOS](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/macos-aarch64)
