@@ -9,6 +9,7 @@ Detailed description:
 * Basic Operations
 * Light weight
 * Only-mouse functional
+The button link is part of the source code
 
 ![RunningCalculator](https://github.com/425656gabriel/portfolioB2/blob/main/images/calc.png?raw=true)
 
