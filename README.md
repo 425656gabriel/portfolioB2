@@ -10,8 +10,10 @@ Detailed description:
 * Light weight
 * Only-mouse functional
 
+Calculator UML
 ![UML](https://github.com/425656gabriel/portfolioB2/blob/main/images/calcUML.jpg)
 
+Running Calculator
 ![RunningCalculator](https://github.com/425656gabriel/portfolioB2/blob/main/images/calculator.png)
 
 * [Windows](https://github.com/425656gabriel/portfolioB2/tree/main/src/Calc/windows-amd64)
